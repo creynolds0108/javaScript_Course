@@ -1,2 +1,21 @@
 Class notes for JavaScript
-  
+ Editing in my new text editor 
+ Leaning to do things in vim :)
+How does the Internet works.
+  - Steady data stream that connects servers and clients throughout the world
+    - Server  
+      - Serves client devices with information
+    - Client  
+      - Used by end-user to request information from servers
+  -DNS Server
+    - converts the human readable request by user(www.google.com) into the computer read IP address
+How do websites work?
+  -HTML
+    - structure of the website
+  -CSS
+    - Styles the website
+  -JavaScript
+    - Creates interaction between the page and user
+Tips for the course
+  - Watch the video tutorials in length before trying to type along at the same pace
+    - After watching the video then go back and try to duplicate the results  
