@@ -19,3 +19,33 @@ How do websites work?
 Tips for the course
   - Watch the video tutorials in length before trying to type along at the same pace
     - After watching the video then go back and try to duplicate the results  
+  - Stack Overflow is your friend
+  - DONT BE AFRAID TO ASK QUESTIONS!
+markup languages
+  - HTML
+    - HyperText Markup Language
+  - XML
+    - Extensible Markup Language
+  - GML
+    - Generalized Markup Language
+Practive HTML notes
+
+<div id="headers">
+  <center>
+<h1>This is a H1 tag</h1>
+  <hr size='3' color='red' noshade>
+<h2>This is a H2 tag</h2>
+  <hr size='3' color='red' noshade>
+<h3>This is a H3 tag</h3>
+  <hr size='3' color='red' noshade>
+<h4>This is a H4 tag</h4>
+  <hr size='3' color='red' noshade>
+<h5>This is a H5 tag</h5>
+  <hr size='3' color='red' noshade>
+<h6>This is a H6 tag</h6>
+  <hr size='3' color='red' noshade>
+  </center>
+</div>
+<!-- Self Closing Tags
+<br>
+-->
