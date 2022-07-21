@@ -1,10 +1,30 @@
-.middle{
-  background-color: red;
+body{
+  margin:0;
+}
+h1{
+  margin-top:0;
+}
+.top-container{
+  background-color: aliceblue;
   width: 200px;
   height: 200px;
+  border: 10px solid;
+  padding: 20px;
+  border-color: black;
 }
-.bottom{
-  background-color: green;
+.middle-container{
+  background-color: teal;
+  width: 200px;
+  height: 200px;
+  border: 20px solid;
+  border-color: black;
+  margin-left: 19%;
+}
+.bottom-container{
+  background-color:seagreen;
   width:200px;
   height: 200px;
+  border: 20px solid;
+  border-color: black;
+  margin-left: 36.6%;
 }
