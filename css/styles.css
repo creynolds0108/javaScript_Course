@@ -8,23 +8,14 @@ h1{
   background-color: aliceblue;
   width: 200px;
   height: 200px;
-  border: 10px solid;
-  padding: 20px;
-  border-color: black;
 }
 .middle-container{
   background-color: teal;
   width: 200px;
   height: 200px;
-  border: 20px solid;
-  border-color: black;
-  margin-left: 19%;
 }
 .bottom-container{
   background-color:seagreen;
   width:200px;
   height: 200px;
-  border: 20px solid;
-  border-color: black;
-  margin-left: 36.6%;
 }
