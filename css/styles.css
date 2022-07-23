@@ -5,9 +5,17 @@ body{
 }
 h1{
   margin-top:0;
+  font-size: 562.5%;
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  font-family: 'Merriweather', serif;
+}
+h3{
+  font-family: 'Merriweather', serif;
 }
 .top-container{
-  background-color: aliceblue;
+  background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
 }
@@ -37,5 +45,5 @@ h1{
   width: 200px;
   height: 200px;
   position: relative;
-  left: 44%;
+  left: 39%;
 }
