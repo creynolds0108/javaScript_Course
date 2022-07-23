@@ -11,15 +11,16 @@ h1{
   position: relative;
   padding-top: 100px;
 }
-.middle-container{
-  background-color: teal;
+#me{
   width: 200px;
-  height: 200px;
+  height: 250px;
+  border-radius: 50%;
+}
+.middle-container{
+
 }
 .bottom-container{
-  background-color:seagreen;
-  width:200px;
-  height: 200px;
+ 
 }
 #bottom-cloud{
   position: absolute;
@@ -30,4 +31,11 @@ h1{
   position: absolute;
   right: 300px;
   top: 50px;
+}
+.penguin,.www {
+  display:block;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 44%;
 }
