@@ -1,13 +1,14 @@
 body{
   margin:0;
+  text-align: center;
 }
 h1{
   margin-top:0;
 }
 .top-container{
   background-color: aliceblue;
-  width: 200px;
-  height: 200px;
+  position: relative;
+  padding-top: 100px;
 }
 .middle-container{
   background-color: teal;
@@ -18,4 +19,14 @@ h1{
   background-color:seagreen;
   width:200px;
   height: 200px;
+}
+#bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+#top_cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
 }
