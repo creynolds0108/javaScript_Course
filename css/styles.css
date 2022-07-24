@@ -13,7 +13,7 @@ h1 {
 
 h2 {
   font-family: 'Merriweather', serif;
-  color: #66BFBF;
+  color: #11999E;
   font-size: 45px;
 }
 
@@ -32,7 +32,7 @@ hr {
   border-bottom:0;
   border-left: 0;
   width: 50px;
-  color: #EAF6F6;
+  color: #395B64;
   margin: auto;
 }
 
@@ -42,6 +42,9 @@ hr {
   padding-top: 100px;
   font-size: 2rem;
   color: #66BFBF;
+}
+.middle-container{
+  background-color: #A5C9CA;
 }
 
 .bottom-container {
