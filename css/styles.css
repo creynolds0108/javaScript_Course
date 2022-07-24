@@ -5,14 +5,25 @@ body{
 }
 h1{
   margin-top:0;
-  font-size: 5.625em;
+  font-size: 10rem;
+  line-height: 2;
   font-family: 'Times New Roman', Times, serif;
+  color: #66BFBF;
 }
 h2{
   font-family: 'Merriweather', serif;
+  color: #66BFBF;
 }
 h3{
   font-family: 'Merriweather', serif;
+  font-weight: normal;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+p{
+  text-align: center;
 }
 .top-container{
   background-color: #E4F9F5;
@@ -24,12 +35,6 @@ h3{
   height: 250px;
   border-radius: 50%;
 }
-.middle-container{
-
-}
-.bottom-container{
- 
-}
 #bottom-cloud{
   position: absolute;
   left: 300px;
@@ -40,10 +45,11 @@ h3{
   right: 300px;
   top: 50px;
 }
-.penguin,.www {
-  display:block;
-  width: 200px;
-  height: 200px;
-  position: relative;
-  left: 39%;
+.penguin, .www {
+  width: 100px;
+  height: 100px;
+}
+.skill-row{
+  display: inline-block;
+  padding: 10px;
 }
